@@ -1,0 +1,15 @@
+# Environments
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets / Large files
+kitti_data/
+*.pt
+*.pth
+
+# Mac specific
+.DS_Store
